@@ -1,3 +1,4 @@
+# coding: utf-8
 """
 Important information
 I use pythonanywhere as the server. It offers so called "scheduled tasks". Basically that's the script that is executed
